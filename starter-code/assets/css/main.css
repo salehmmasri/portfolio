@@ -2645,3 +2645,6 @@ height: 400px;
 		background-color: #81918E;
 		background-image: url("../../images/bk3.jpg");
 	}
+	#logo img{
+		border-radius: 10px;
+	}
